@@ -15,7 +15,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact:
+### 🛠 My tools:
+
+<h3 align="center">
+  Languages 
+</h3>
+
+<div>
+  <img align="center" alt="GuilhermeC-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="GuilhermeC-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="GuilhermeC-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="GuilhermeC-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</div>
+
+<br />
+
+<h3 align="center">
+  Framework 
+</h3>
+
+<div>
+  <img align="center" alt="GuilhermeC-React" src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" />
+</div>
+
+<br />
+
+<h3 align="center">
+  Other tools 
+</h3>
+
+<div>
+  <img align="center" alt="GuilhermeC-Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GuilhermeC-VisualCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img align="center" alt="GuilhermeC-Figma" src="https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff">
+</div>
+
+<br />
+
+### 📞Contact:
 
 <div>
 <a href="https://www.instagram.com/guilherme.crisostomo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,20 +60,20 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/guilherme-crisostomo-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### Informations:
+<br />
+
+### ℹ️ Informations:
 
 <div>
 <a href="https://github.com/guicrisostomo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicrisostomo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicrisostomo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-### Technologies:
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="GuilhermeC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GuilhermeC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GuilhermeC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GuilhermeC-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="GuilhermeC-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</div><br>
+
+<br />
+
+### ⚡Github Streak
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=guicrisostomo&theme=neon-dark&hide_border=true&background=DD272700">
+</div>
