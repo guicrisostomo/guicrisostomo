@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 ### 🛠 My tools:
 
-<h3 align="center">
-  Languages 
-</h3>
+#### Languages
 
 <div>
   <img align="center" alt="GuilhermeC-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,9 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3 align="center">
-  Framework 
-</h3>
+#### Framework
 
 <div>
   <img align="center" alt="GuilhermeC-React" src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" />
@@ -40,9 +36,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<h3 align="center">
-  Other tools 
-</h3>
+#### Other tools
 
 <div>
   <img align="center" alt="GuilhermeC-Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
