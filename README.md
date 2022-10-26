@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Framework
+#### Framework & libs
 
 <div>
   <img align="center" alt="GuilhermeC-React" src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" />
