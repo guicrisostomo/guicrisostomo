@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   <img align="center" alt="GuilhermeC-Ts" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0">
   <img align="center" alt="GuilhermeC-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="GuilhermeC-Dart" src="https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=649AD2&color=1c2834">
+  <img align="center" alt="GuilhermeC-C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <br />
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <div>
   <img align="center" alt="GuilhermeC-React" src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" />
   <img align="center" alt="GuilhermeC-Flutter" src="https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=2d7dda" />
+  <img align="center" alt="GuilhermeC-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
 <br />
