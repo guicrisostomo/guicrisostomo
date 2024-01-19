@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 #### Languages
 
 <div>
-  <img align="center" alt="GuilhermeC-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="GuilhermeC-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="GuilhermeC-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="GuilhermeC-Ts" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0">
-  <img align="center" alt="GuilhermeC-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="GuilhermeC-Dart" src="https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=649AD2&color=1c2834">
-  <img align="center" alt="GuilhermeC-C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 
 <br />
@@ -36,7 +32,7 @@ Here are some ideas to get you started:
 <div>
   <img align="center" alt="GuilhermeC-React" src="https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34" />
   <img align="center" alt="GuilhermeC-Flutter" src="https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=2d7dda" />
-  <img align="center" alt="GuilhermeC-dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="GuilhermeC-Flutter" src="https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=ff0000" />
 </div>
 
 <br />
