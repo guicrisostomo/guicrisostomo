@@ -1,5 +1,5 @@
 # Hello, I'm Guilherme Crisostomo da Silva 👋
-I'm student of systems analysis and development at Fatec Ribeirão Preto.
+I have a degree in systems analysis and development at Fatec Ribeirão Preto and I'm student of software enginner (MBA) at USP/Esalq.
 <!--
 **guicrisostomo/guicrisostomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <div>
   <img align="center" alt="GuilhermeC-Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="GuilhermeC-VisualCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img align="center" alt="GuilhermeC-Figma" src="https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff">
 </div>
 
 <br />
